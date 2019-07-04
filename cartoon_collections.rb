@@ -1,6 +1,6 @@
 def roll_call_dwarves# code an argument here
   # Your code here
-  roll_call_dwarves([1 => Doc, 2 => Dopet, 3 => Bashful, 4 => Grumpy])
+  roll_call_dwarves = [1 => Doc, 2 => Dopet, 3 => Bashful, 4 => Grumpy]
 end
 
 def summon_captain_planet# code an argument here
